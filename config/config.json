@@ -1,0 +1,15 @@
+{
+    "dev":{
+        "port":6060,
+        "mysql":{
+            "hostname":"localhost",
+            "port":3096,
+            "database": "media_share",
+            "username": "root",
+            "password": "root"
+        }
+    },
+    "prod":{
+
+    }
+}
